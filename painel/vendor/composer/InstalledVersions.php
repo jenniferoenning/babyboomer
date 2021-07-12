@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'dev-main',
-    'version' => 'dev-main',
+    'pretty_version' => '1.0.0+no-version-set',
+    'version' => '1.0.0.0',
     'aliases' => 
     array (
     ),
-    'reference' => 'd5370c3d83d2a650bce31219815efaabf0a45e55',
+    'reference' => NULL,
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -500,21 +500,21 @@ private static $installed = array (
     ),
     'laravel/jetstream' => 
     array (
-      'pretty_version' => 'v2.3.5',
-      'version' => '2.3.5.0',
+      'pretty_version' => 'v2.3.11',
+      'version' => '2.3.11.0',
       'aliases' => 
       array (
       ),
-      'reference' => '53b107cab39ec19c07b0daf53ebb57d1fb7dead5',
+      'reference' => 'dabc8118d91c0be0a697984f1fd9fdf25813851c',
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
+      'pretty_version' => '1.0.0+no-version-set',
+      'version' => '1.0.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'd5370c3d83d2a650bce31219815efaabf0a45e55',
+      'reference' => NULL,
     ),
     'laravel/sail' => 
     array (
@@ -527,12 +527,12 @@ private static $installed = array (
     ),
     'laravel/sanctum' => 
     array (
-      'pretty_version' => 'v2.11.0',
-      'version' => '2.11.0.0',
+      'pretty_version' => 'v2.11.2',
+      'version' => '2.11.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => '3ed8f60dafef026acc21733366a08746a7bd176e',
+      'reference' => 'b21e65cbe13896946986cb0868180cd69e1bd5d3',
     ),
     'laravel/tinker' => 
     array (
@@ -572,12 +572,12 @@ private static $installed = array (
     ),
     'livewire/livewire' => 
     array (
-      'pretty_version' => 'v2.4.4',
-      'version' => '2.4.4.0',
+      'pretty_version' => 'v2.5.3',
+      'version' => '2.5.3.0',
       'aliases' => 
       array (
       ),
-      'reference' => '33101c83b75728651b9e668a4559f97def7c9138',
+      'reference' => '1ca6757c78dbead4db7f52a72dabb8b27efcb3f6',
     ),
     'mobiledetect/mobiledetectlib' => 
     array (
@@ -874,8 +874,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
